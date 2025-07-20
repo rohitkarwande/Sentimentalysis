@@ -1,0 +1,4 @@
+# This file lists the Python libraries my project needs to run.
+
+Flask
+nltk
